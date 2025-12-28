@@ -1,4 +1,4 @@
-О проекте: Это мой личный knowledge base и портфолио
+Это мой личный knowledge base и портфолио
 Здесь собраны:
 - Конспекты по основам ИБ и OWASP Top 10
 - Решения лабов PortSwigger Web Security Academy
