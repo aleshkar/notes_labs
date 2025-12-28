@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "87443f300a4555ab",
+        "id": "56c220ee36a201e7",
         "type": "tabs",
         "children": [
           {
-            "id": "a9c95492e952c57f",
+            "id": "239f38040af95846",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/DNS,WHOIS.md",
+                "file": "Basic/Базовый набор команд(для администрирования сетей).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS,WHOIS"
+              "title": "Базовый набор команд(для администрирования сетей)"
             }
           }
         ]
@@ -194,11 +194,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a136a2f225e2c5d",
+  "active": "239f38040af95846",
   "lastOpenFiles": [
+    "Basic/DNS,WHOIS.md",
+    "Pasted image 20251228200147.png",
+    "Basic/Базовый набор команд(для администрирования сетей).md",
+    "Pasted image 20251228200150.png",
     "README.md",
     "Basic/Привет.md",
-    "Basic/DNS,WHOIS.md",
     "Untitled",
     "Basic"
   ]
