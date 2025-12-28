@@ -1,5 +1,4 @@
-Это мой личный knowledge base и портфолио
-Здесь собраны:
+Это мой личный knowledge base и портфолио, здесь собраны:
 - Конспекты по основам ИБ и OWASP Top 10
 - Решения лабов PortSwigger Web Security Academy
 - Заметки по комнатам TryHackMe и picoCTF (web exploitation)
