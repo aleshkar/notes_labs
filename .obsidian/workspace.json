@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Работа с пользователями(команды).md",
+                "file": "Linux/Пользователи в линукс.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с пользователями(команды)"
+              "title": "Пользователи в линукс"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "7d428182e67c8311",
   "lastOpenFiles": [
-    "Linux/Подключение по SSH для удаленного управления через  cmd.md",
     "Linux/Работа с пользователями(команды).md",
+    "Linux/Пользователи в линукс.md",
+    "Linux/Подключение по SSH для удаленного управления через  cmd.md",
     "Linux/Самые важные команды(стоит знать).md",
     "Linux/Linux command(для себя).md",
     "README.md",
